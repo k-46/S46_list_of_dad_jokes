@@ -9,4 +9,4 @@
 - Like - Having a like button for each post
 
 
-> More features will be available soon
+> More features will be available soon.
